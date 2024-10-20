@@ -1,8 +1,8 @@
-# David Fincher Fan Chatbot
+# David Fincher Chatbot
 
 ## About the Project
 
-This project implements a chatbot designed for David Fincher fans. It provides information about the acclaimed filmmaker, his works, and related topics. The chatbot is built using Natural Language Processing (NLP) techniques and a custom knowledge base created from web-crawled data.
+This project implements a chatbot based on David Fincher. It provides information about the acclaimed filmmaker, his works, and related topics. The chatbot is built using Natural Language Processing (NLP) techniques and a custom knowledge base created from web-crawled data.
 
 **Project Structure**
 
